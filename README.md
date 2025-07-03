@@ -2,6 +2,6 @@
 
 ## Topics
 ### Interface
--> IColonable
--> IComparable
+> IColonable
+> IComparable
 ### Shallow Copy Vs Deep Copy
